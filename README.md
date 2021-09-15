@@ -9,3 +9,5 @@ Users should note that the project is currently in a very early stage of develop
 ### Latine
 
 Praebemus tibi, benevole lector et benevola lectrix, Corpus Erasmicum; id est, thesaurus numeralis totius corporis Desiderii Erasmi Roterodami editus per rete universalem, ex recensione Ioannis Clerici (Petri Van Der Aa, Lugduni Batavorum, 1703-1708). Textus numerice factus est per machinam computatoriam quae potest cognoscere et transcribere photogrammata paginarum typis impressarum. Hae photogrammata repiri possunt apud [Lovaniensia](http://heron-net.be/lovaniensia/items/show/1206) et [Erasmus Online thesaurum numeralium](https://www.erasmus.org/index.cfm?fuseaction=eol.getdetail&field1=id&value1=2707)
+
+Corpus Erasmicum nuper inceptum est, ergo praebemus nunc tantum specimen operum numeralium. Quaesimus ut ignoscas errata quae invenias, quae mox corrigentur.
